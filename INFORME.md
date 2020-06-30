@@ -252,16 +252,19 @@ Fuente: https://azurecomcdn.azureedge.net/cvt-2ce59fd809b99599ffdde580d1ff242f23
 
 8.1.27.	Una vez aceptada todas las condiciones, se activa el instanciamiento.
 
-![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2010.22.15.jpeg)
+![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2013.03.29.jpeg)
+![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2012.47.50.jpeg)
 
 8.1.28.	Y listo, su máquina está lista para ejecutar. El menú siguiente abre una introducción al manejo del equipo. También puede navegar por internet.
 
-![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2010.22.19.jpeg)
-![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2010.22.26.jpeg)
+![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2012.47.55.jpeg)
+![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2012.48.01.jpeg)
+
+![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2012.48.07.jpeg)
 
 8.1.29.	8.1.27.	Y, por otro lado, el escritorio de la computadora no ha cambiado en nada
 
-![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2010.22.31.jpeg)
+![](https://github.com/deyder73/Tutorial-M-qina-Virtual/blob/master/img/WhatsApp%20Image%202020-06-30%20at%2012.50.29.jpeg)
 
 **9. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
 
